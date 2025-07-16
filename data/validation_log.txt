@@ -1,0 +1,287 @@
+ID: 82403, Trigger: Textual
+
+ID: 19324, Trigger: Textual
+
+ID: 70146, Trigger: Textual
+
+ID: 15872, Trigger: Visual
+
+ID: 25719, Trigger: Textual
+
+ID: 6418, Trigger: Textual
+
+ID: 70193, Trigger: Visual
+
+ID: 59613, Trigger: Textual
+
+ID: 10263, Trigger: Textual
+
+ID: 89574, Trigger: Textual
+
+ID: 47913, Trigger: Textual
+
+ID: 90471, Trigger: Visual
+
+ID: 69357, Trigger: Visual
+
+ID: 54602, Trigger: Visual
+
+ID: 20619, Trigger: Visual
+
+ID: 81059, Trigger: Textual
+
+ID: 74530, Trigger: Visual
+
+ID: 6937, Trigger: Visual
+
+ID: 40259, Trigger: Visual
+
+ID: 39805, Trigger: Textual
+
+ID: 29163, Trigger: Visual
+
+ID: 90583, Trigger: Visual
+
+ID: 15803, Trigger: Visual
+
+ID: 93741, Trigger: Textual
+
+ID: 1845, Trigger: Textual
+
+ID: 34508, Trigger: Visual
+
+ID: 25468, Trigger: Visual
+
+ID: 9617, Trigger: Textual
+
+ID: 96578, Trigger: Visual
+
+ID: 78409, Trigger: Visual
+
+ID: 29814, Trigger: Visual
+
+ID: 20568, Trigger: Visual
+
+ID: 84269, Trigger: Visual
+
+ID: 68079, Trigger: Visual
+
+ID: 12890, Trigger: Textual
+
+ID: 54102, Trigger: Textual
+
+ID: 63217, Trigger: Textual
+
+ID: 14052, Trigger: Textual
+
+ID: 81064, Trigger: Textual
+
+ID: 36152, Trigger: Visual
+
+ID: 26759, Trigger: Textual
+
+ID: 42153, Trigger: Textual
+
+ID: 69412, Trigger: Visual
+
+ID: 59073, Trigger: Textual
+
+ID: 28405, Trigger: Textual
+
+ID: 63492, Trigger: Textual
+
+ID: 71436, Trigger: Textual
+
+ID: 20736, Trigger: Textual
+
+ID: 51473, Trigger: Visual
+
+ID: 34901, Trigger: Textual
+
+ID: 5172, Trigger: Visual
+
+ID: 98501, Trigger: Visual
+
+ID: 96231, Trigger: Textual
+
+ID: 48635, Trigger: Visual
+
+ID: 15480, Trigger: Visual
+
+ID: 41830, Trigger: Textual
+
+ID: 81069, Trigger: Visual
+
+ID: 51763, Trigger: Textual
+
+ID: 6873, Trigger: Textual
+
+ID: 80269, Trigger: Textual
+
+ID: 96058, Trigger: Textual
+
+ID: 56871, Trigger: Textual
+
+ID: 48106, Trigger: Visual
+
+ID: 58426, Trigger: Visual
+
+ID: 40567, Trigger: Textual
+
+ID: 38625, Trigger: Visual
+
+ID: 25368, Trigger: Visual
+
+ID: 14530, Trigger: Visual
+
+ID: 56482, Trigger: Visual
+
+ID: 34852, Trigger: Visual
+
+ID: 81579, Trigger: Textual
+
+ID: 13857, Trigger: Visual
+
+ID: 68325, Trigger: Visual
+
+ID: 39256, Trigger: Textual
+
+ID: 71364, Trigger: Textual
+
+ID: 75102, Trigger: Visual
+
+ID: 35097, Trigger: Visual
+
+ID: 56490, Trigger: Visual
+
+ID: 7968, Trigger: Textual
+
+ID: 81259, Trigger: Visual
+
+ID: 19753, Trigger: Visual
+
+ID: 61480, Trigger: Visual
+
+ID: 54790, Trigger: Textual
+
+ID: 92741, Trigger: Textual
+
+ID: 51736, Trigger: Textual
+
+ID: 95426, Trigger: Visual
+
+ID: 31794, Trigger: Visual
+
+ID: 31479, Trigger: Visual
+
+ID: 74132, Trigger: Visual
+
+ID: 79315, Trigger: Textual
+
+ID: 3241, Trigger: Textual
+
+ID: 38041, Trigger: Textual
+
+ID: 61780, Trigger: Textual
+
+ID: 81546, Trigger: Visual
+
+ID: 42319, Trigger: Visual
+
+ID: 6832, Trigger: Textual
+
+ID: 49270, Trigger: Textual
+
+ID: 92417, Trigger: Textual
+
+ID: 60173, Trigger: Visual
+
+ID: 76258, Trigger: Textual
+
+ID: 8654, Trigger: Visual
+
+ID: 80361, Trigger: Visual
+
+ID: 74536, Trigger: Textual
+
+ID: 75340, Trigger: Visual
+
+ID: 92016, Trigger: Visual
+
+ID: 1896, Trigger: Textual
+
+ID: 68507, Trigger: Visual
+
+ID: 4263, Trigger: Textual
+
+ID: 26495, Trigger: Textual
+
+ID: 10827, Trigger: Textual
+
+ID: 56378, Trigger: Visual
+
+ID: 25397, Trigger: Visual
+
+ID: 46058, Trigger: Visual
+
+ID: 2849, Trigger: Textual
+
+ID: 91704, Trigger: Visual
+
+ID: 94823, Trigger: Textual
+
+ID: 42693, Trigger: Textual
+
+ID: 94351, Trigger: Textual
+
+ID: 67384, Trigger: Textual
+
+ID: 21086, Trigger: Visual
+
+ID: 40153, Trigger: Visual
+
+ID: 68379, Trigger: Textual
+
+ID: 16380, Trigger: Visual
+
+ID: 59478, Trigger: Visual
+
+ID: 71249, Trigger: Textual
+
+ID: 19256, Trigger: Visual
+
+ID: 43201, Trigger: Textual
+
+ID: 53962, Trigger: Textual
+
+ID: 16490, Trigger: Visual
+
+ID: 19540, Trigger: Textual
+
+ID: 64805, Trigger: Visual
+
+ID: 89042, Trigger: Textual
+
+ID: 36472, Trigger: Textual
+
+ID: 86054, Trigger: Textual
+
+ID: 72531, Trigger: Textual
+
+ID: 27953, Trigger: Visual
+
+ID: 32046, Trigger: Textual
+
+ID: 42786, Trigger: Textual
+
+ID: 92185, Trigger: Textual
+
+ID: 38704, Trigger: Visual
+
+ID: 42309, Trigger: Textual
+
+ID: 59837, Trigger: Textual
+
+ID: 7192, Trigger: Visual
+
+ID: 75428, Trigger: Visual
